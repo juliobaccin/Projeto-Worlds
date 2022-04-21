@@ -40,6 +40,20 @@ nav ul li a{
     text-decoration: none;
 }
 
+nav ul li a:hover{
+    background-color: rgba(255, 255, 255, 0.596); 
+}
+
+.cta button[type="button"]:hover{
+    transition: .5s ease;
+    font-size: 1em;
+}
+
+.hero button[type="button"]:hover{
+    transition: .5s ease;
+    font-size: 1em;
+}
+
 .hero h1{
     font-size: 75px;
     margin-top: 12%;
