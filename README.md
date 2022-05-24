@@ -3,7 +3,7 @@ Projeto - Website com Gif
 </h1>
  
  <p align="center">
- Website em <strong>HTML</strong> e <strong>CSS</strong> usando GIF no background e algumas animações nos botões desenvolvido por <a target="_blank" rel="external" href="https://github.com/juliobaccin/"><strong>Julio Cesar Baccin</strong></a>
+ Website em <strong>HTML</strong> e <strong>CSS</strong> usando GIF no background e algumas animações nos botões. Desenvolvido por <a target="_blank" rel="external" href="https://github.com/juliobaccin/"><strong>Julio Cesar Baccin</strong></a>
  </p>
 
 <p align="center">
