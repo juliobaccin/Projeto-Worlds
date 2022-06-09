@@ -7,7 +7,7 @@ Projeto - Website com Gif
  </p>
 
 <p align="center">
- você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-Website-com-gif/">aqui</a>
+ você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-Worlds/">aqui</a>
 </p>
 
 <div align="center">
